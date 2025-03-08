@@ -1,0 +1,4 @@
+Versiones de aplicaciones utilizadas para la creacion del proyecto:
+
+- Microsoft Visual Studio Community 2022 Version 17.8.6
+- SQL Server Management Studio Version 19.3.4.0
